@@ -5,6 +5,8 @@ const Home = () => {
     return (
         <div>
             Welcome to the Homepage
+
+            Netflix clone
         </div>
     );
 };
