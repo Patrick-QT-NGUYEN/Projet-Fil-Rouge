@@ -7,7 +7,7 @@ const LoginScreen = () => {
     return (
         <div className=".loginScreen">
             <img className="loginScreen_logo"
-                src="../../../public/img/netflix_logo.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/640px-Netflix_2015_logo.svg.png"
                 alt="Logo Netflix"
             />
             <button className="loginScreen_button"
